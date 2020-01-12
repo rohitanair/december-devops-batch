@@ -6,3 +6,5 @@ This is in development branch
 one more addition. 
 
 git pull edit study
+
+git pull sudy 2
